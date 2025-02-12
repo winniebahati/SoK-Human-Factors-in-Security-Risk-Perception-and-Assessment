@@ -44,7 +44,8 @@ To aide in future replication of this study, we have made available the followin
 1. Extracted data from each digital library (.bib)
 2. Data after removal of duplicates
 3. Resulting publications after each filtering step (I/E on title and keywords)
-4. Final set of primary studies
+4. Quality assessment
+5. Final set of primary studies
 
 
 
