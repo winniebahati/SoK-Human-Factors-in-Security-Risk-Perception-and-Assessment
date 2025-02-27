@@ -2,7 +2,7 @@
 This repository contains the studies used in the systemitasation of knowledge on the demographic factors that effect security risk perception and assessment. Data extraction, from digtal libraries (ACM digital library, IEEE Xplore,
 Scopus, and Google Scholar), was carried out on the 20th of October, 2022
 
-To gather evidence, we formulated a search string consisting of keywords used to retrieve relevant publications from digital libraries (such as ``human factors'', ``security'', ``risk'', ``analysis'', ``assessment''). 
+To gather evidence, we formulated a search string consisting of keywords used to retrieve relevant publications from digital libraries (such as human factors, security, risk, analysis, assessment). 
 
 1. (gender OR age OR education OR nationality OR human factors OR divers*) AND
 2. (security OR safety) AND
